@@ -1,4 +1,4 @@
-# 🚀 WP Task Scheduler
+#  WP Task Scheduler
 
 A professional **WordPress plugin** built with **MVC architecture** that allows administrators to:
 
